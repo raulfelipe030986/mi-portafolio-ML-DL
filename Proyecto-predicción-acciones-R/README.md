@@ -6,3 +6,12 @@ utilizando un modelo ML de árbol aleatorio.
 Raúl Felipe Sosa
 
 [LinkedIn](www.linkedin.com/in/raúl-felipe-sosa-a387531bb)
+
+## Librerías utilizadas
+
+* quantmod
+* lubridate
+* dplyr
+* tidyr
+* ggplot2
+* caret
